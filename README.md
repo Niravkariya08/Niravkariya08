@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirav Kariya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niravkariya08&label=Profile%20views&color=0e75b6&style=flat" alt="niravkariya08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niravkariya08" alt="niravkariya08" /></a> </p>
-
 - 📫 How to reach me **niravkariya18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
