@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirav Kariya</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from Gujarat</h3>
 
 - 📫 How to reach me **niravkariya18@gmail.com**
 
