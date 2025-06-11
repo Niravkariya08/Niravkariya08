@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirav Kariya</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravkariya08&label=Profile%20views&color=0e75b6&style=flat" alt="NiravKariya" height="26"/> </p>
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
