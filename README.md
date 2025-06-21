@@ -59,7 +59,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niravkariya08&theme=dark&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakNum=C9D1D9&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravkariya08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niravkariya08&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<h3 align="center">Thank you for visiting my profile! 😊</h3>
+---
+
+### ✨ Thank you for visiting my profile! 😊
