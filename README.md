@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML** and **MERN Technology.**
  
-- 📫 How to reach me: **niravkariya18@gmail.com**
+- 📫 How to reach me: **niravkariya.tech@gmail.com**
 
 
  <img height="1" />
