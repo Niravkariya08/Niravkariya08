@@ -55,4 +55,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niravkariya08&theme=transparent" alt="Nirav Kariya's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravkariya08&layout=compact&theme=transparent" alt="Nirav Kariya's Top Languages" /> 
+</p>
+
 ### ✨ Thank you for visiting my profile! 😊
