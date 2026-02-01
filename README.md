@@ -5,7 +5,7 @@
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions. Feel free to explore and reach out to me on my social media profiles.
 
-- 🌱 I’m currently learning **AI/ML** and **MERN Technology.**
+- 🌱 I’m currently learning **AI/ML** and **Flutter.**
  
 - 📫 How to reach me: **niravkariya.tech@gmail.com**
 
