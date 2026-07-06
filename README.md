@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirav Kariya</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravkariya08&label=Profile%20views&color=0e75b6&style=flat" alt="NiravKariya" height="26"/> </p>
 
@@ -55,12 +55,13 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=niravkariya08" 
   style="width:400px; height:165px;"
 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niravkariya08&layout=compact&theme=transparent" alt="Nirav Kariya's Top Languages" /> 
-</p>
+</p> -->
 
-### ✨ Thank you for visiting my profile! 😊
+<h2 align="center">✨ Thank you for visiting my profile! 😊</h2>
+<!-- ### ✨ Thank you for visiting my profile! 😊 -->
